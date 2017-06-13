@@ -26,7 +26,7 @@ You have permission to use, upload or otherwise distribute this as please, just 
 ----------------------------------------------------------------------------------------------
 
 CHANGELOG
-16-june-2017
+13-june-2017
 - updated to vs2015 platform
 - added x64 build options for Arma3_x64.exe compatability
 
