@@ -168,7 +168,7 @@
 		};
 		_data = [_data, _type] call iniDB_Datarizer;
 		inidb_errno = _ret;
-		_data;
+		[_data, _ret];
 	};
 
 		

@@ -1,6 +1,7 @@
 iniDBI(IMPROVED) - A simple server-side database extension using INI files
 
 Authors:
+inidbi - v1.4 x64 uro - https://github.com/Uro1
 inidbi - v1.4 code34 - nicolas_boiteux@yahoo.fr
 inidbi - v1.3 code34 - nicolas_boiteux@yahoo.fr
 inidbi - v1.2 code34 - nicolas_boiteux@yahoo.fr
@@ -11,6 +12,7 @@ How to use:
 To use "iniDBI" in your mission, install the extension in your ARMA2 or ARMA3 directory by copying the entire "@inidbi" folder included in the download to your root directory.
 Don't forget to copy over over or create the /db/ folder.
 It should look like: /Arma 3/@inidbi/iniDB.dll
+It should look like: /Arma 3/@inidbi/iniDB_x64.dll
 It should look like: /Arma 3/@inidbi/db/
 It should look like: /Arma 3/@inidbi/Addons/inidbi.pbo
 
@@ -24,6 +26,10 @@ You have permission to use, upload or otherwise distribute this as please, just 
 ----------------------------------------------------------------------------------------------
 
 CHANGELOG
+16-june-2017
+- updated to vs2015 platform
+- added x64 build options for Arma3_x64.exe compatability
+
 06-february-2014 - inidbi
 - add deletekey method
 - fix private declaration
