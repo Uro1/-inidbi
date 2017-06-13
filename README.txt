@@ -55,3 +55,10 @@ CHANGELOG
 - Initial Release
 - init.sqf
 - Initial Release 
+
+
+----------------------------------------------------------------------------------------------
+For KillzoneKid's updates to make_file.dll he created a page on his blog containing x64 versions of his DLL's, you can find those on his website @ http://killzonekid.com/arma-64-bit-extensions/
+
+For users looking for x64 versions of other common extensions used along with inidb such as make_file you should check the appropriate authors website.
+----------------------------------------------------------------------------------------------
